@@ -1,0 +1,1 @@
+This script along with other scripts mentioned in the file must be in the same folder.
